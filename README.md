@@ -15,16 +15,16 @@ For the current project we are using Mental Health Corpus in order to extract th
 
 ##	Approach
 To perform sentiment analysis using word clouds, we will use a multi-step approach:
-    - Collect/Extract the text data for analysis – we will use Mental Health Corpus.
-    - Pre-processing or cleaning the text data. 
-        - By Lowercasing texts
-        - By removing URL and special characters
-        - By removing stop words and punctuation.
-        - Stemming
-        - Lemmatising
-    - Bifurcating the dataset into poisonous and non-poisonous text datasets.
-    - Analysing commonly used word using Frequency Distribution Plot
-    - Utilising wordcloud to get a pictorial representation.
+- Collect/Extract the text data for analysis – we will use Mental Health Corpus.
+- Pre-processing or cleaning the text data. 
+    - By Lowercasing texts
+    - By removing URL and special characters
+    - By removing stop words and punctuation.
+    - Stemming
+    - Lemmatising
+- Bifurcating the dataset into poisonous and non-poisonous text datasets.
+- Analysing commonly used word using Frequency Distribution Plot
+- Utilising wordcloud to get a pictorial representation.
 
 
 
